@@ -1,2 +1,3 @@
 # Jamal Delivery
-Welcome to Jamal Delivery Official Site
+Welcome to official Jamal Delivery Website!<br>
+This website is only used for tracking your deliveries
